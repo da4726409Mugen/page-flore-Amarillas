@@ -84,7 +84,7 @@ body{
     animation-delay: 2.5s;
 }
 .greetings > span:nth-child(11){
-    animation-delay: 2.8s;
+    animation-delay: 2.9s;
 }
 
 .description{
@@ -114,6 +114,7 @@ body{
     }
 
 }
+
 
 
 
