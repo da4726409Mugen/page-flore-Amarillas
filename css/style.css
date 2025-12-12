@@ -83,7 +83,7 @@ body{
 .greetings > span:nth-child(11){
     animation-delay: 2.5s;
 }
-.greetings > span:nth-child(11){
+.greetings > span:nth-child(12){
     animation-delay: 2.9s;
 }
 
@@ -114,6 +114,7 @@ body{
     }
 
 }
+
 
 
 
